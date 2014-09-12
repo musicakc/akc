@@ -121,8 +121,8 @@ a:active {
     padding: 100px 0;
     text-align: center;
     color: #ffffff;    
-    background-color: #808000;
-    background-image: images/background.jpg;
+    background-color: #CC33FF;
+    background-image: "images/background.jpg";
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
