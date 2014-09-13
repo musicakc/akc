@@ -10,6 +10,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom" type="text/css">
 <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
@@ -73,7 +74,7 @@
 <div class="row">
 <div class="col-lg-8 col-lg-offset-2">
 <h2>About</h2>
-<p>Hi! My name is <a href="musicakc.github.io/akc" target="_blank">Amitoj Kaur Chawla</a> and I'm a undergrad at IGDTUW. I love learning about new things and always open for interesting collaborations and projects. Drop a line to know more and talk to me.
+<p>Hi! My name is <a href="musicakc.github.io/akc" target="_blank">Amitoj Kaur Chawla</a> and I'm a undergrad at IGDTUW. I love learning about new things and working on small projects. Drop a line to know more and talk to me.
 </p>
 </br>
 </br>
